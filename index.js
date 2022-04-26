@@ -1,5 +1,9 @@
 const express = require('express');
 const app = new express();
+
+app.use('/',(req,res)=>{
+    res.json()
+})
 app.listen(4300,()=>{
     console.log("Express JS started succesfully")
 });
