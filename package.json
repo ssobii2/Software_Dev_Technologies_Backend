@@ -1,19 +1,12 @@
 {
-<<<<<<< HEAD
+
   "name": "ecommerce_backend",
-=======
-  "name": "ptecommerce-backend",
->>>>>>> 4f16db1e2a8b4087e3dd328edd9916ebe4d06a42
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-<<<<<<< HEAD
     "start":"node index.js"
-=======
-    "start": "node index.js"
->>>>>>> 4f16db1e2a8b4087e3dd328edd9916ebe4d06a42
   },
   "repository": {
     "type": "git",
